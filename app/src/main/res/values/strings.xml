@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Text Reader</string>
+    <string name="text_message">No Text Available</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection </string>
+</resources>
